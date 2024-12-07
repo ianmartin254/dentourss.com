@@ -1,0 +1,26 @@
+.faqq-card {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+}
+.privacy-card{
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+.cancellation-card{
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+.payment-card{
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+.footer-bottom{
+    text-align: center;
+}
